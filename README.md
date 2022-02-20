@@ -1,1 +1,1 @@
-My personal space for some AI learning stuff.
+My personal space for some AI and other learning stuff.
