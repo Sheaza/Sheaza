@@ -1,1 +1,1 @@
-My personal space for some AI and other learning stuff.
+Second year Computer Science student at Adam Mickiewicz University in Poznań, Poland. 
