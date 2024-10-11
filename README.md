@@ -1,1 +1,1 @@
-Third year Computer Science student at Adam Mickiewicz University in Poznań, Poland. 
+Second year MA AI student at Adam Mickiewicz University in Poznań, Poland. 
